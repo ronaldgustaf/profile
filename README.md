@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 Studying Data Science at City University of Hong Kong.
-- 💼 Currently I am on an exchange semester at University of New South Wales (UNSW), Sydney.
+- 💼 Currently I am an intern at AIA Group Investment - Investment ESG.
 - 💡 I'm interested in applying AI and machine learning to solve real-world problems, especially in the field of financial technology.
 
 ## What You'll Find Here
